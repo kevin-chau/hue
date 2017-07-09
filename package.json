@@ -1,0 +1,19 @@
+{
+  "name": "hue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/kevinchau321/hue.git",
+  "author": "kevinchau321 <kevinchau321@berkeley.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchau321/hue/issues"
+  },
+  "homepage": "https://github.com/kevinchau321/hue#readme",
+  "dependencies": {
+    "node-hue-api": "^2.4.2"
+  }
+}
